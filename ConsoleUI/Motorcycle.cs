@@ -14,7 +14,7 @@ namespace ConsoleUI
             Console.WriteLine("The motorcycle is driving");
         }
 
-        public override void Drivevirtual() 
+        public override void DriveVirtual() 
         {
             Console.WriteLine("Motorcycle's Virtual Drive Method");
         }
